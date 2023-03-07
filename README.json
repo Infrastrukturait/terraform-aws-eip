@@ -1,11 +1,20 @@
 {
-  "name": "",
-  "repo_url": "",
+  "authors": [
+    {
+      "email": "rafal@masiarek.pl",
+      "github": "rafalmasiarek",
+      "name": "Rafa\u0142 Masiarek",
+      "website": "https://masiarek.pl"
+    }
+  ],
+  "context": [
+    "## About",
+    "Terraform module to provisiong [AWS Elastic IP](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html)."
+  ],
+  "includes": [
+    "docs/terraform.md"
+  ],
   "license": "GPLv3",
-  "logo": "",
-  "badges": [],
-  "includes": [],
-  "authors": [],
-  "context": [],
-  "references": []
+  "name": "terraform-aws-eip",
+  "repo_url": "https://github.com/Infrastrukturait/terraform-aws-eip"
 }
