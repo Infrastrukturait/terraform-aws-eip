@@ -101,7 +101,6 @@ module "app_prod_eip" {
 
 <!-- END_TF_DOCS -->
 
-
 <!-- references -->
 
 [repo_link]: https://github.com/Infrastrukturait/terraform-aws-eip
